@@ -1,6 +1,8 @@
 # Selfbot-JS
 It's a selfbot that offers some features as, giveawaySniper, nitroSniper, dmAdvertiserBlocker, channelFirst.
 
+## Help Command
+ Type +help ( output in console )
 
 ## Features
  **dmAdvertiser**: **If enabled it'll block all users that send you a invite link in dms**
